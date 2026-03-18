@@ -24,7 +24,6 @@ I blend **2+ years of professional experience** in digital creation with a rigor
 * **Visual Intelligence:** As a **Graphic Designer**, I focus on UI/UX and data visualization, ensuring that complex AI insights are presented through clean, intuitive, and professional interfaces.
 * **Audio Intelligence:** As a **Music Producer**, I have an ear for frequency and rhythm, which I translate into better feature engineering for audio-based AI models.
 * **Automation at Scale:** I’ve spent 2+ years building systems to automate studio-scale media workflows (including work with **Assistoro**), turning manual editing into efficient, tech-driven pipelines.
-* **Lyrical Artist:** I perform original rap at **APGA** events, using performance to master the art of storytelling—a skill I use to make technical data accessible to any audience.
 
 ---
 
