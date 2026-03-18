@@ -1,6 +1,6 @@
 # Salam, I'm Daim Taimoor Chohan
 
-### AI Engineer (almost) | Music Producer | Graphics Designer/Video Edi | Artist
+### AI Engineer (almost) | Music Producer | Graphics Designer/Video Editor | Artist
 I am a 6th-semester Artificial Intelligence student at **Bahria University** who lives at the intersection of logic and creativity. I don't just build models; I build high-fidelity experiences that understand the nuances of art, sound, and visual design.
 
 ---
