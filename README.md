@@ -5,7 +5,7 @@ I am a 6th-semester Artificial Intelligence student at **Bahria University** who
 
 ---
 
-### Featured Projects (The "Winners")
+### Featured Projects 
 - **🎶 [SurTaal.AI](https://github.com/daimwithafullstop/SurTaal-AI):** An end-to-end Deep Learning pipeline for Pakistani Music Genre Classification (Bhangra, Ghazal, Qawwali).
 - **✈️ [Flight-Delay-Analyzer](https://github.com/daimwithafullstop/Flight-Delay-Analyzer):** A structured desktop application for predictive flight analytics using modular OOP principles.
 - **🧠 CardioLogic:** (In Development) A KRR-based expert system for heart disease risk assessment.
@@ -19,7 +19,7 @@ I am a 6th-semester Artificial Intelligence student at **Bahria University** who
 
 ---
 
-### The Creative Edge (My Selling Point)
+### The Creative Edge
 I blend 2+ years of professional experience in **Media Automation** with a deep passion for the arts. This unique perspective allows me to approach AI problems with a creative lens:
 * **Audio Intelligence:** As a **Music Producer**, I have an ear for frequency and rhythm, which I translate into better feature engineering for audio-based AI.
 * **Automation at Scale:** I’ve spent 2+ years building systems to automate studio-scale media workflows (including work with **Assistoro**), turning manual editing into efficient, tech-driven pipelines.
