@@ -5,7 +5,7 @@ I am a 6th-semester Artificial Intelligence student at **Bahria University** who
 
 ---
 
-### 🚀 Featured Technical Projects
+###  Featured Technical Projects
 * **🎶 [SurTaal.AI](https://github.com/daimwithafullstop/SurTaal-AI):** A deep learning pipeline specialized in Pakistani musical heritage. I built a custom CNN to classify regional genres (Bhangra, Ghazal, Qawwali) that Western models often overlook.
 * **✈️ [Flight-Delay-Analyzer](https://github.com/daimwithafullstop/Flight-Delay-Analyzer):** A modular Python application demonstrating high-level OOP principles and predictive data analytics.
 * **🧠 CardioLogic:** (In Development) An expert system utilizing Knowledge Representation & Reasoning (KRR) for heart disease risk assessment.
